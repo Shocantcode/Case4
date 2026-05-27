@@ -91,3 +91,5 @@ def hotel_booking_price(
     )
 
     return round(total, 2)
+
+calculate_booking_fee = hotel_booking_price
